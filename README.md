@@ -1,5 +1,5 @@
 # AI-Travel-Insurance
-"End to End AI Travel Insurance and Compensation Assistant 
+"End to End AI Travel Insurance and Compensation Assistant"
 
 # 🛡️ AI Travel Insurance & Compensation Assistant
 
